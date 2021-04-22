@@ -1,7 +1,7 @@
 <?php
 //Server Deatils
-echo "Hello world!";
-echo "Version 1";
+echo "Hello Biti!";
+echo "Version update during demo";
 echo $_SERVER['PHP_SELF'];
 echo "<br>";
 echo $_SERVER['SERVER_ADDR'];
